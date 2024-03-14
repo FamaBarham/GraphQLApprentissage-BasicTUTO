@@ -1,0 +1,68 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Mohtashim",
+    "lastName": "Mohammad",
+    "email": "mohtashim.mohammad@tutorialpoint.org",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "email": "kannan.sudhakaran@tutorialpoint.org",
+    "firstName": "Kannan",
+    "lastName": "Sudhakaran",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1003",
+    "email": "kiran.panigrahi@tutorialpoint.org",
+    "firstName": "Kiran",
+    "lastName": "Panigrahi",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "HJC6GzTb6",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "new-1-2",
+    "firstName": "Fama",
+    "lastName": "Rassoul",
+    "password": "fhjjn5852"
+  },
+  {
+    "id": "new-1-3",
+    "firstName": "Fama",
+    "lastName": "Rassoul",
+    "password": "fhjjn5852"
+  },
+  {
+    "id": "new-1-3",
+    "firstName": "Fama",
+    "lastName": "Rassoul",
+    "password": "fhjjn5852"
+  },
+  {
+    "id": "new-1-3",
+    "firstName": "Fama",
+    "lastName": "WayouBaye",
+    "password": "fhjjn5852"
+  },
+  {
+    "id": "new-8-10",
+    "firstName": "Fama",
+    "lastName": "WayouBaye",
+    "password": "fhjjn5852"
+  },
+  {
+    "id": "new-8-10",
+    "firstName": "Fama",
+    "lastName": "WayouBaye",
+    "password": "fhjjn5852"
+  }
+]

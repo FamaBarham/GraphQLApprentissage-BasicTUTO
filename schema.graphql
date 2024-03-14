@@ -1,0 +1,40 @@
+type Query  {
+   greeting: String, 
+   students:[Student],
+   studentById(id:ID!):Student,
+   colleges:[College],
+   collegeById(id:String):College
+}
+
+type Mutation{
+   addStudent(studentInput:StudentInput): String
+}
+
+input StudentInput {
+  id: String,
+  firstName:String,
+  lastName:String,
+  collegeId:String,
+  password:String
+}
+
+
+type College {
+   id:ID!,
+   name:String,
+   location:String,
+   rating:Float,
+   collegeStudents:[Student]
+}
+
+type Student {
+   id:ID!
+   firstName:String
+   lastName:String
+   fullName:String
+   college:College,
+   collegeId:String,
+   password: String
+}
+
+
